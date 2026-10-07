@@ -9,5 +9,7 @@ Generally, after Windows' install, you're doing some sort of setup. The intent o
 
 ## Usage:
 Download the whole zip file.
+
 Run ```run_tweaks.bat``` by double clicking on it.
+
 Don't close console while running.
