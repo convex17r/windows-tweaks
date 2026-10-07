@@ -8,4 +8,6 @@ Generally, after Windows' install, you're doing some sort of setup. The intent o
 - reg tweaks
 
 ## Usage:
-Run ```runme.bat``` by double clicking on it.
+Download the whole zip file.
+Run ```run_tweaks.bat``` by double clicking on it.
+Don't close console while running.
